@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: rgb(20, 158, 158);
+}
+
+header{
+    padding: 25px;
+}
+
+#NumIn{
+    background-color: aquamarine;
+    width: 220px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+#submit{
+    background-color: aquamarine;
+    width: 120px;
+    height: 30px;
+    border: 1px solid rgb(103, 103, 103);
+    border-radius: 20px;
+    font-weight: 500;
+    transition: .3s ease-in-out;
+}
+
+#submit:hover{
+    border: 1px solid black;
+    background-color: rgb(5, 171, 116);
+    transition: .3s ease-in-out;
+}
+
