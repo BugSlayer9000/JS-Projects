@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(87, 88, 89, 0.616);
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+
+#container button{
+    background-color: rgba(61, 201, 211, 0.641);
+    font-size: 1.2rem;
+    padding: 5px 15px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+    transition: .3s ease-in-out;
+}
+
+#container button:hover{
+    background-color: rgb(38, 122, 129);
+}
+
+input{
+    font-size: 1.5rem;
+}
